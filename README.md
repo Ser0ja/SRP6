@@ -1,4 +1,4 @@
-# RSP6
+# SRP6
 JS and PHP implementation of RSP6
 
 ##Sources
